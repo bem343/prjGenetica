@@ -1,0 +1,20 @@
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.frmPrincipal.resources
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.individuo.resources
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.Properties.Resources.resources
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.csproj.GenerateResource.Cache
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.csprojResolveAssemblyReference.cache
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.configuracoes.resources
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\bin\Debug\Simulador de genética.exe
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\bin\Debug\Simulador de genética.pdb
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\Simulador de genética.exe
+D:\OneDrive\Área de Trabalho\prjGenetica\prjGenetica\obj\x86\Debug\Simulador de genética.pdb
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\Simulador de genética.exe
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\Simulador de genética.pdb
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\bin\Debug\Simulador de genética.exe
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\bin\Debug\Simulador de genética.pdb
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.csprojResolveAssemblyReference.cache
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.configuracoes.resources
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.frmPrincipal.resources
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.individuo.resources
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.Properties.Resources.resources
+D:\Downloads\PROJETOS\prjGenetica\prjGenetica\obj\x86\Debug\prjGenetica.csproj.GenerateResource.Cache
